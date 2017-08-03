@@ -1,0 +1,5 @@
+<judul>
+ <objek>Candi Ratu Boko
+
+<isi>
+ Candi Ratu Boko candi kira-kira</objek> <jarak>3 km sebelah selatan</jarak> dari kompleks <objek>candi Prambanan</objek>. Candi diperkirakan dibangun abad ke-9 wangsa Sailendra zaman kerajaan Mataram Kuno. <objek>Ratu Boko</objek>, legenda, diambil dari raja memerintah itu, ayah dari dewi Loro Jonggrang (yang diabadikan candi Prambanan). <objek>Candi ciri</objek> khas dibandingkan candi-candi lain, letaknya lereng bukit. kompleks candi terdapat Paseban, Pendopo, Pringgitan, keputren, buah gua meditasi. <objek>Candi Ratu Boko</objek> Van Boecjholzt 1790.

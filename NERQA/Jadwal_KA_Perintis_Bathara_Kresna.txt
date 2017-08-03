@@ -1,0 +1,5 @@
+<judul>
+ Jadwal KA Perintis Bathara Kresna
+
+<isi>
+ Jadwal operasi KA Perintis Bathara Kresna, berangkat dari <objek>Stasiun Purwosari</objek> pukul 06.00 WIB, tiba <kabupaten>Wonogiri</kabupaten> pukul 07.45 pemberangkatan berangkat pukul 10.00 tiba <kabupaten>Wonogiri</kabupaten> pukul 11.45 WIB. Sebaliknya dari Wonogiri pukul 08.00 - tiba <kota>Solo</kota> pukul 09.45 WIB, pukul 11.45 WIB- tiba <kota>Solo</kota> pukul 12.15 WIB. Harga Tiket Rp. 4000,-.
